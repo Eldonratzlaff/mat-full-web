@@ -1,8 +1,4 @@
 
-
-
-
-
 .calculation-result {
   background-color: gray;
   grid-area: result;
@@ -139,4 +135,3 @@
     'number1 number2 number3 addition'
     'number0 number0 number-dot iqual';
 }
-
