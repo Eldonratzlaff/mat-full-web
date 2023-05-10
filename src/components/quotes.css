@@ -1,0 +1,9 @@
+.quoteBox {
+  font-size: 25px;
+  display: flex;
+  width: 55vw;
+  height: 50vh;
+  border: solid 4px rgb(167, 93, 93);
+  margin: 20vh 0 0 40vw;
+  padding: 5px;
+}
