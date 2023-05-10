@@ -44,7 +44,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
 
 <details>
   <summary>Client</summary>
@@ -59,7 +59,7 @@
 
 ### Key Features <a name="key-features"></a>
 
->  Key features of the application.
+<!-- >  Key features of the application. -->
 
 - **Learn how to use proper ES6 syntax.**
 - **Use ES6 modules to write modular JavaScript.**
@@ -135,7 +135,7 @@ Deploy when ready
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+<!-->> Mention all of the collaborators of this project.-->
 
 👤 **Eldon Ratzlaff**
 
@@ -172,7 +172,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+<!-- > Write a message to encourage readers to support your project -->
 
 Give a star if you like this project!
 
