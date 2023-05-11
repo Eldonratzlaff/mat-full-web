@@ -1,0 +1,30 @@
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  height: 60px;
+  padding: 0 20px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+}
+
+.nav-title {
+  font-size: 50px;
+  color: rgb(196, 99, 34);
+  margin: 0 0 0 10px;
+}
+
+.nav-link {
+  color: rgb(196, 99, 34);
+  text-decoration: none;
+  font-size: 30px;
+  padding: 0 10px;
+}

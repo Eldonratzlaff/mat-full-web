@@ -1,0 +1,12 @@
+.calculatorPage-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 10vh 0 0 0;
+}
+
+.calculator-coment {
+  font-size: 45px;
+  color: #080808;
+  text-align: center;
+  margin: 1vh 0 1rem 0;
+}
